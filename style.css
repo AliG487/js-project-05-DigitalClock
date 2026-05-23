@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.clockContainer {
+  width: 100%;
+  min-height: 100vh;
+  background: url(./images/kordi_vahle-dolomites.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clock {
+  width: 100%;
+  max-width: 400px;
+  background-color: #ffffff6c;
+  color: #252025;
+  margin: 100px auto 20px;
+  padding: 40px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
