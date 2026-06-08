@@ -85,9 +85,9 @@ function setTime() {
 
 ## 📚 Files Explained
 
-- `index.html` - HTML structure with input field and greeting display
-- `style.css` - Styling with gradient background
-- `script.js` - JavaScript logic for greeting functionality
+- `index.html` - HTML structure with clock and date display
+- `style.css` - Styling with beautiful background image
+- `script.js` - JavaScript logic for clock, date and time format toggling
 
 ## ✅ Features Breakdown
 
